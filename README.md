@@ -1,11 +1,10 @@
 # DahmanyTechPro
-# DH TechPro
 
 ## Expert, Stress-Free Tech Support & Optimization.
 
 [![Website](https://img.shields.io/badge/Website-Online-blue?style=for-the-badge&logo=googledrive)](https://dahmanytechpro.kesug.com/)
-[![Local Service Area](https://img.shields.io/badge/Local%20Service-Bir%20Al%20Huffay%20%F0%9F%87%B9%F0%9F%87%B3-green?style=for-the-badge)](https://dahmanytechpro.kesug.com/contact)
-[![Remote Support](https://img.shields.io/badge/Remote%20Support-Worldwide%20%E2%9C%85-red?style=for-the-badge)](https://dahmanytechpro.kesug.com/services)
+[![Contact Us](https://img.shields.io/badge/Contact-Us-brightgreen?style=for-the-badge)](https://dahmanytechpro.kesug.com/contact-us-info.html)
+[![Services](https://img.shields.io/badge/Services-Worldwide%20%E2%9C%85-red?style=for-the-badge)](https://dahmanytechpro.kesug.com/#services-section)
 [![License](https://img.shields.io/badge/Content%20License-CC%20BY%204.0-lightgrey?style=for-the-badge)](LICENSE)
 
 ***
